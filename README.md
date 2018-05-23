@@ -1,0 +1,2 @@
+# Arduino-FSRChug-Meter
+This is a project which utilizes a Force Sensitive Resistor, or FSR, in addition to button presses to create a timer that responds only when the weight of the registered empty glass contacts the FSR again. Additionally, the code is designed to output the timer and various messages according to the program, to an LCD 16x2 display; this was done for purposes of aesthetics and to push the creative bounds of the project.
